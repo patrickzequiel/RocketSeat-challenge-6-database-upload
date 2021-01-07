@@ -34,7 +34,7 @@ export default class CreationTransactions1609982234570 implements MigrationInter
               default: 'now()',
             },
             {
-              name: 'update_at',
+              name: 'updated_at',
               type: 'timestamp',
               default: 'now()'
             }
